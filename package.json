@@ -1,0 +1,14 @@
+{
+  "name": "electron-demo",
+  "version": "1.0.0",
+  "description": "demo app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "alexander domakyaareh",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^7.1.10"
+  }
+}
