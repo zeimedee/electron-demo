@@ -9,6 +9,6 @@
   "author": "alexander domakyaareh",
   "license": "ISC",
   "dependencies": {
-    "electron": "^7.1.10"
+    "electron": "^18.3.7"
   }
 }
